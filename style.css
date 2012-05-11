@@ -1,0 +1,21 @@
+/*
+THEME NAME:Imago 2012
+THEME URI:http://www.imagodeichurch.org
+VERSION:2.0
+AUTHOR:ClearElement
+AUTHOR URI:http://clearelement.co
+DESCRIPTION:The Imago Site for Headway v3
+TEMPLATE:headway
+*/
+
+@import url("styles/globals.css");
+@import url("styles/typography.css");
+/*@import url("styles/grid.css");*/
+@import url("styles/ui.css");
+@import url("styles/forms.css");
+@import url("styles/orbit.css");
+@import url("styles/reveal.css");
+@import url("styles/mobile.css");
+
+
+
